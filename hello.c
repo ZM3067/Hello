@@ -7,5 +7,7 @@ Date: 2020/01/14
 int main(void) {
 	printf("Zach Masters\n");
 	printf("Electrical Engineering\n");
+	printf("Cole Lyons\n");
+	printf("Finance\n");
 	return 0;
 }
